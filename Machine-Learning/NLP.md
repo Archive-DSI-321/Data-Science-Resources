@@ -57,6 +57,7 @@
   - [spaCy 101](https://spacy.io/usage/spacy-101) - new to spaCy? Here's everything you need to know!
   - [Usage Guides](https://spacy.io/usage/) - how to use spaCy and its features.
   - [spaCy Universe](https://spacy.io/universe/) - libraries, extensions, demos, books and courses.
+  - [Interactive course](https://course.spacy.io/en/) - Advanced NLP with SpaCy interactive course.
 - [spaCy GitHub Repo](https://github.com/explosion/spaCy)
   - [Examples](https://github.com/explosion/spaCy/tree/master/examples)
 - [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
